@@ -1,0 +1,36 @@
+.container{
+    margin-top:40px ;
+    margin-bottom: 40px;
+    border: rgb(238, 235, 235) 5px solid;
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.V-7kgLAZQnK8lFl6yn3o7wHaFH&pid=Api&P=0&w=224&h=156");
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 760px;
+    height: auto;
+    
+    padding-bottom: 30px;
+}
+
+#top{
+    
+    display: flex;
+    justify-content: center;
+    margin: 0px 0px 10px 0px ;
+    background-color: darkturquoise;
+    color: floralwhite;
+    border: hsl(182, 30%, 42%) solid 1px; 
+   
+}
+
+.container-fluid{
+    background-color: darkturquoise;
+    padding-bottom: 10px;
+   
+}
+
+.Task{
+    max-width: 300px;
+    border:grey solid 0.1px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
